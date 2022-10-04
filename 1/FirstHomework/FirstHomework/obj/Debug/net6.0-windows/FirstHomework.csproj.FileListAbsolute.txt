@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\bin\Debug\net6.0-windows\FirstHomework.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\bin\Debug\net6.0-windows\FirstHomework.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\bin\Debug\net6.0-windows\FirstHomework.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\bin\Debug\net6.0-windows\FirstHomework.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\bin\Debug\net6.0-windows\FirstHomework.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\refint\FirstHomework.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\FirstHomework.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\FirstHomework\FirstHomework\obj\Debug\net6.0-windows\ref\FirstHomework.dll
