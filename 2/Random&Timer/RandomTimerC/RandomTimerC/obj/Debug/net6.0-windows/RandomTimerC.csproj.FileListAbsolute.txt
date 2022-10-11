@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\bin\Debug\net6.0-windows\RandomTimerC.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\bin\Debug\net6.0-windows\RandomTimerC.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\bin\Debug\net6.0-windows\RandomTimerC.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\bin\Debug\net6.0-windows\RandomTimerC.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\bin\Debug\net6.0-windows\RandomTimerC.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\refint\RandomTimerC.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\RandomTimerC.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\Random&Timer\RandomTimerC\RandomTimerC\obj\Debug\net6.0-windows\ref\RandomTimerC.dll
