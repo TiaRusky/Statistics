@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\bin\Debug\net6.0-windows\CSV_C.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\bin\Debug\net6.0-windows\CSV_C.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\bin\Debug\net6.0-windows\CSV_C.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\bin\Debug\net6.0-windows\CSV_C.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\bin\Debug\net6.0-windows\CSV_C.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\refint\CSV_C.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\CSV_C.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\2\CSV\CSV_C\CSV_C\obj\Debug\net6.0-windows\ref\CSV_C.dll
