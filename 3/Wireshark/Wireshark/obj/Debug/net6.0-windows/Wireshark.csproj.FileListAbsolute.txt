@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\bin\Debug\net6.0-windows\Wireshark.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\bin\Debug\net6.0-windows\Wireshark.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\bin\Debug\net6.0-windows\Wireshark.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\bin\Debug\net6.0-windows\Wireshark.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\bin\Debug\net6.0-windows\Wireshark.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\refint\Wireshark.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\Wireshark.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\3\Wireshark\Wireshark\obj\Debug\net6.0-windows\ref\Wireshark.dll
