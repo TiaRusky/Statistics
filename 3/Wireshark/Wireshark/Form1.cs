@@ -25,7 +25,7 @@ namespace Wireshark
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
 
-                //We want to calculate the distribution (univariate) on calories (int) 
+                //We want to calculate the distribution (univariate) on rate(ms) (int) 
                 Dictionary<string, int> rateDistribution = new Dictionary<string, int>();
 
 
