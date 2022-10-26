@@ -27,8 +27,8 @@ namespace CoinTosses
                 double prvY = pictureBox1.Height;
                 double prvYR = pictureBox1.Height;
                 double prvYN = pictureBox1.Height;
-                double rfreq;       //Relative freq
-                double nfreq;       //Normalize freq
+                double rfreq = 0.0;       //Relative freq
+                double nfreq = 0.0;       //Normalize freq
 
                 for(int j = 0; j < trials; j++)
                 {
@@ -49,8 +49,40 @@ namespace CoinTosses
                     prvYR = fromRealToVirtualY(rfreq, 0, trials, pictureBox1.Height);
                     prvYN = fromRealToVirtualY(nfreq, 0, trials, pictureBox1.Height);
 
-
+                    
                 }
+
+                if (i == (reps - 1))       //I'm on the last rep
+                {
+
+                    Bitmap bAbsolute = new Bitmap(pictureBoxAbsolute.Width, pictureBoxAbsolute.Height);
+                    Bitmap bRelative = new Bitmap(pictureBoxRelative.Width, pictureBoxRelative.Height);
+                    Bitmap bNormalized = new Bitmap(pictureBoxNormalized.Width, pictureBoxNormalized.Height);
+
+                    Graphics gAbsolute = Graphics.FromImage(bAbsolute);
+                    Graphics gRelative = Graphics.FromImage(bRelative);
+                    Graphics gNormalized = Graphics.FromImage(bNormalized);
+
+                    //Absolute
+                    gAbsolute.FillRectangle(new SolidBrush(Color.Green), 0, 0, 75, Convert.ToInt32((Convert.ToDouble(success) / trials) * pictureBoxAbsolute.Height));
+                    gAbsolute.FillRectangle(new SolidBrush(Color.Red), 80, 0, 75, Convert.ToInt32((Convert.ToDouble(trials - success) / trials) * pictureBoxAbsolute.Height));
+
+
+                    //Relative
+                    gRelative.FillRectangle(new SolidBrush(Color.Green), 0, 0, 75, Convert.ToInt32(fromRealToVirtualY(rfreq, 0, trials, pictureBoxRelative.Height)));
+                    gRelative.FillRectangle(new SolidBrush(Color.Red), 80, 0, 75, Convert.ToInt32(fromRealToVirtualY((1 * trials) - rfreq, 0, trials, pictureBoxRelative.Height)));
+
+
+                    //Normalized
+                    gNormalized.FillRectangle(new SolidBrush(Color.Green), 0, 0, 75, Convert.ToInt32(fromRealToVirtualY(nfreq, 0, trials, pictureBoxNormalized.Height)));
+                    gNormalized.FillRectangle(new SolidBrush(Color.Red), 80, 0, 75, Convert.ToInt32(fromRealToVirtualY((1 * trials) - nfreq, 0, trials, pictureBoxNormalized.Height)));
+
+
+                    pictureBoxAbsolute.Image = bAbsolute;
+                    pictureBoxRelative.Image = bRelative;
+                    pictureBoxNormalized.Image = bNormalized;
+                }
+
             }
 
             pictureBox1.Image = bitmap;
@@ -75,6 +107,31 @@ namespace CoinTosses
         private double fromRealToVirtualY(double y, double minY, double maxY, double height)
         {
             return height - ((y - minY) / (maxY - minY)) * height;
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBoxRelative_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
