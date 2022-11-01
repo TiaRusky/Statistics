@@ -9,3 +9,5 @@ This repository is used to take track of all statistic's projects
 
 4: Simulate a sequence of coin tosses (0 for success, 1 for failure) where the probability of success is a parameter and draw a dynamic chart of the Absolute (Blue) , Relative (Red)  and Normalized frequencies (Green)
 
+5: Given a distribution, draw istogram column chart with vertical and horizontal orientation (ColumnChart). Given a box/rectangle, enable its movement and resizing via mouse
+

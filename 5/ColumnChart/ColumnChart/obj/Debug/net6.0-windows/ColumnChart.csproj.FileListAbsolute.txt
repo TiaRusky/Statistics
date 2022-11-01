@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\bin\Debug\net6.0-windows\ColumnChart.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\bin\Debug\net6.0-windows\ColumnChart.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\bin\Debug\net6.0-windows\ColumnChart.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\bin\Debug\net6.0-windows\ColumnChart.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\bin\Debug\net6.0-windows\ColumnChart.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\refint\ColumnChart.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ColumnChart.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\5\ColumnChart\ColumnChart\obj\Debug\net6.0-windows\ref\ColumnChart.dll
