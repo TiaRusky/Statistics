@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\bin\Debug\net6.0-windows\Drag6Drop.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\bin\Debug\net6.0-windows\Drag6Drop.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\bin\Debug\net6.0-windows\Drag6Drop.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\bin\Debug\net6.0-windows\Drag6Drop.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\bin\Debug\net6.0-windows\Drag6Drop.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\refint\Drag6Drop.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\Drag6Drop.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\Drag6Drop\Drag6Drop\obj\Debug\net6.0-windows\ref\Drag6Drop.dll
