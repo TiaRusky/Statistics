@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\bin\Debug\net6.0-windows\SamplingDistribution.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\bin\Debug\net6.0-windows\SamplingDistribution.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\bin\Debug\net6.0-windows\SamplingDistribution.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\bin\Debug\net6.0-windows\SamplingDistribution.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\bin\Debug\net6.0-windows\SamplingDistribution.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\refint\SamplingDistribution.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\SamplingDistribution.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\6\SamplingDistribution\SamplingDistribution\obj\Debug\net6.0-windows\ref\SamplingDistribution.dll
