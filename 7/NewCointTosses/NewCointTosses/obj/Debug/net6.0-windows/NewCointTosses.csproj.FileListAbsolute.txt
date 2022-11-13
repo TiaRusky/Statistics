@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\bin\Debug\net6.0-windows\NewCointTosses.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\bin\Debug\net6.0-windows\NewCointTosses.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\bin\Debug\net6.0-windows\NewCointTosses.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\bin\Debug\net6.0-windows\NewCointTosses.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\bin\Debug\net6.0-windows\NewCointTosses.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\refint\NewCointTosses.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\NewCointTosses.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\7\NewCointTosses\NewCointTosses\obj\Debug\net6.0-windows\ref\NewCointTosses.dll

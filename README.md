@@ -11,3 +11,6 @@ This repository is used to take track of all statistic's projects
 
 5: Given a distribution, draw istogram column chart with vertical and horizontal orientation (ColumnChart). Given a box/rectangle, enable its movement and resizing via mouse
 
+6: Take a population, fix a RV X and define the distribution of E(X) and Var(X) in a seq of n sampling of size m
+
+7: Define a toin toss seq with winning probability = lambda/n, with n= number of trials. Reapeat the experiemnts N times and draw success distribution and interarravil distribution
