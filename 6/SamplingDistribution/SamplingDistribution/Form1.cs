@@ -162,7 +162,9 @@ namespace SamplingDistribution
 
             g.DrawRectangle(new Pen(Color.Blue), 0, 0, pictureBox.Width - 1, pictureBox.Height - 1);
 
-            foreach (var item in distr)
+            var sorted = distr.OrderBy(x => x.Key);
+
+            foreach (var item in sorted)
             {
                 double virtualX = fromRealToVirtualX(item.Value, 0, numElement, pictureBox.Height);
                 g.DrawRectangle(new Pen(Color.Red), j + 1, pictureBox.Height - (int)virtualX - 1, step, (int)virtualX);
@@ -174,6 +176,11 @@ namespace SamplingDistribution
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

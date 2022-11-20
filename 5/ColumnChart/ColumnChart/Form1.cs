@@ -87,7 +87,9 @@ namespace ColumnChart
 
             g.DrawRectangle(new Pen(Color.Blue), 0, 0, pictureBox.Width - 1, pictureBox.Height - 1);
 
-            foreach (var item in distr)
+            var sorted = distr.OrderBy(x => x.Key);
+
+            foreach (var item in sorted)
             {
                 double virtualX = fromRealToVirtualX(item.Value, 0, numElement, pictureBox.Height);
                 g.DrawRectangle(new Pen(Color.Red), j + 1, pictureBox.Height - (int)virtualX - 1, step, (int)virtualX);
@@ -104,7 +106,9 @@ namespace ColumnChart
             int step = pictureBox.Height / distr.Count;
             g.DrawRectangle(new Pen(Color.Blue), 0, 0, pictureBox.Width - 1, pictureBox.Height - 1);
 
-            foreach(var item in distr)
+            var sorted = distr.OrderBy(x => x.Key);
+
+            foreach (var item in sorted)
             {
                 double virtualX = fromRealToVirtualX(item.Value,0, numElement, pictureBox.Width);
                 g.DrawRectangle(new Pen(Color.Red), 0, j, (int) virtualX, step);

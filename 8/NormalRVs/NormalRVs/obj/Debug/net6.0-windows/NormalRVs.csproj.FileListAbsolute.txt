@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\bin\Debug\net6.0-windows\NormalRVs.exe
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\bin\Debug\net6.0-windows\NormalRVs.deps.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\bin\Debug\net6.0-windows\NormalRVs.runtimeconfig.json
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\bin\Debug\net6.0-windows\NormalRVs.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\bin\Debug\net6.0-windows\NormalRVs.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.Form1.resources
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.AssemblyInfo.cs
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\refint\NormalRVs.dll
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.pdb
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\NormalRVs.genruntimeconfig.cache
+C:\Users\HP\Desktop\Università\Magistrale\1 anno\Statistics\Projects\8\NormalRVs\NormalRVs\obj\Debug\net6.0-windows\ref\NormalRVs.dll
